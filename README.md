@@ -65,12 +65,14 @@ A complete decentralized voting application built on Ethereum, featuring a robus
 
 - Project Structure
   - Author
-  
+
 ## 🌐 Live Demo
 
-🚀 Try the DApp
+[🌐 Live Demo](https://drive.google.com/file/d/1mMOe7LUVuFtJ7SidiyGRWFyb1Xz91e2j/view?usp=drive_link)
 
-📜 View Smart Contract
+[🚀 Try the DApp](https://voting-dapp-mchgrlr73-johs-projects-60f7743a.vercel.app)
+
+[📜 View Smart Contract](https://sepolia.etherscan.io/address/0xF87f63D55e5ED614b91E176Dda9FF6eeFe5a59B1#code)
 
 ## 📸 Screenshots
 
