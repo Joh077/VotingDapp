@@ -3,13 +3,13 @@
 import '@rainbow-me/rainbowkit/styles.css';
 import { getDefaultConfig, RainbowKitProvider } from '@rainbow-me/rainbowkit';
 import { WagmiProvider } from 'wagmi';
-import { hardhat } from 'wagmi/chains';
+import { sepolia } from '@/utils/sepolia';
 import { QueryClientProvider, QueryClient } from "@tanstack/react-query";
 
 const config = getDefaultConfig({
   appName: 'My RainbowKit App',
   projectId: 'f869723e564548717f7dba3644ba9fe5',
-  chains: [hardhat],
+  chains: [sepolia],
   ssr: true, // If your dApp uses server side rendering (SSR)
 });
 
